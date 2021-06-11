@@ -536,6 +536,17 @@ text-decoration:underline;
   color:black;
 }
 
+#mod-importfile .modal-dialog .modal-body .nav li{
+ margin:0 10px;
+}
+
+#optionMenuButton,
+#optionMenuButton:focus,
+#closeSideOptions{
+    border: none;
+    outline:none;
+    background-color: transparent;
+}
 
 /*--------*/
 
